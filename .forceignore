@@ -3,3 +3,7 @@
 #
 
 package.xml
+**/jsconfig.json
+**profiles
+**/.eslintrc.json
+**/OrgPreference.settings-meta.xml
